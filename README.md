@@ -26,6 +26,13 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## How to work on it
+
+1- Installation of php storm
+2 - Run the project php artisan serve
+3 - add user table in data base named "reservation" on port 3306
+4 - The requests  are ( /regestration  ) (/welcome )(admin/login) (admin/Home) (admin/successfully) (admin/users)
+5 - Run the request to start (/admin/Home) 
 
 ## Laravel Sponsors
 
